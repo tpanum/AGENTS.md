@@ -5,3 +5,6 @@ This is a repository containing common instructions I use across projects (e.g. 
 For my future self, back in 2025, [AGENTS.md](https://agents.md/) was a instruction method used for common agentic tools at the time (Gemini, Claude Code, and Codex).
 
 ## Python
+```
+curl -s https://raw.githubusercontent.com/tpanum/AGENTS.md/refs/heads/main/languages/python/CODING_STYLE.md >> AGENTS.md
+```
